@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "61810093451",
+    "project_id": "terramesh-ai",
+    "storage_bucket": "terramesh-ai.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:61810093451:android:ea4675d47e690330dad38e",
+        "android_client_info": {
+          "package_name": "com.anonymous.mobile"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYWTCc7dmaSOMvFGo9z9JvSDBrDzprLtw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

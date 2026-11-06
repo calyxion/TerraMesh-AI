@@ -1,0 +1,10 @@
+{
+  "hosting": {
+    "public": "apps/mineguard-core/frontend",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}

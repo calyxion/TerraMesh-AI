@@ -1,0 +1,73 @@
+# Dependencies
+node_modules/
+bun.lock
+
+# Environment & Secrets
+.env
+.env*.local
+*.pem
+*.key
+*-credentials.json
+*service_account*.json
+*service-account*.json
+apps/mineguard-core/backend/firebase.json
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+venv/
+.venv/
+*.egg-info/
+*.joblib
+*.arrow
+*.tif
+*.7z
+data/datasets/
+
+# SQLite & Runtime DBs
+*.db
+*.db-shm
+*.db-wal
+
+# Build Output & Caches
+dist/
+build/
+web-build/
+*.tsbuildinfo
+*.jsbundle
+
+# Expo & Metro
+.expo/
+expo-env.d.ts
+.metro-health-check*
+
+# Android Native Build
+.gradle/
+local.properties
+*.iml
+*.hprof
+.cxx/
+*.jks
+*.keystore
+*.p8
+*.p12
+*.mobileprovision
+
+# Logs & Runtime Artifacts
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+request_debug_log.txt
+apps/mineguard-core/backend/test_report.pdf
+*.zip
+checksums.txt
+
+# IDE & OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+.freebuff/
